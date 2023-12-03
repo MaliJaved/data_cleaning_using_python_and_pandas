@@ -18,4 +18,4 @@ So, data scientists spend a large amount of their time cleaning the dataset and 
 
 A very common scenario is that the dataset contains missing values coded as NaN. Also, the missing values are coded in different ways. The dataset may contain negative or invalid values. It may contain outliers. It may be in the untidy format. All of these are examples of a messy dataset.
 
-In this project, I present several useful ways to handle these discrepancies in the dataset.
+In this project, I present several useful ways to handle messy and missing values in the dataset.
